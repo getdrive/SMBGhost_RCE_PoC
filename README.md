@@ -1,3 +1,7 @@
+## Demo Video:
+
+[![Lazy-RDP Demo](https://i1.ytimg.com/vi/pRyvTViOtJ0/hqdefault.jpg)](https://youtu.be/pRyvTViOtJ0)
+
 # SMBGhost_RCE_PoC
 
 RCE PoC for CVE-2020-0796 "SMBGhost"
