@@ -1,4 +1,4 @@
-## Demo Video:
+## Demo Video SMBGhost_RCE:
 
 [![Lazy-RDP Demo](https://i1.ytimg.com/vi/pRyvTViOtJ0/hqdefault.jpg)](https://youtu.be/pRyvTViOtJ0)
 
